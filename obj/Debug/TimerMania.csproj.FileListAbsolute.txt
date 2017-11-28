@@ -1,0 +1,9 @@
+K:\Sgt\Desktop App\TimerMania\bin\Debug\TimerMania.exe.config
+K:\Sgt\Desktop App\TimerMania\bin\Debug\TimerMania.exe
+K:\Sgt\Desktop App\TimerMania\bin\Debug\TimerMania.pdb
+K:\Sgt\Desktop App\TimerMania\obj\Debug\TimerMania.csprojResolveAssemblyReference.cache
+K:\Sgt\Desktop App\TimerMania\obj\Debug\TimerMania.Displayer.resources
+K:\Sgt\Desktop App\TimerMania\obj\Debug\TimerMania.MainForm.resources
+K:\Sgt\Desktop App\TimerMania\obj\Debug\TimerMania.csproj.GenerateResource.Cache
+K:\Sgt\Desktop App\TimerMania\obj\Debug\TimerMania.exe
+K:\Sgt\Desktop App\TimerMania\obj\Debug\TimerMania.pdb
